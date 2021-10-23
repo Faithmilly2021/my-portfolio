@@ -1,4 +1,4 @@
-![alt text] C:\Users\JIMALO\Desktop\portfolio\images\fm.jpg
+
 HELLO, MY NAME IS FAITH
 
 I am a software engineer student. Most of the time i like to keep myself busy with code, and learning new things.
