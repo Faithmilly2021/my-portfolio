@@ -1,5 +1,5 @@
 
-![fm](https://user-images.githubusercontent.com/88321504/138554882-d59a463b-5dfb-4154-b8c7-81125638588a.jpg)
+![nc](https://user-images.githubusercontent.com/88321504/138555152-fcf8b0a9-c177-4942-a4aa-24191887cd74.jpg)
 
 HELLO, MY NAME IS FAITH
 
@@ -10,3 +10,4 @@ Faith has started her software engineer journey in the beginning of 2021. Before
 During her previous work she learned to work hard, tackle issues without supervision, She is currently owning granite company by the name Amilly granite, and co-owner of Amilly gas.
 
 You can find these companies on google to learnmore about them.
+![fm](https://user-images.githubusercontent.com/88321504/138554882-d59a463b-5dfb-4154-b8c7-81125638588a.jpg)
