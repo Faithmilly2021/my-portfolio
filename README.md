@@ -1,5 +1,5 @@
 
-![nc](https://user-images.githubusercontent.com/88321504/138555152-fcf8b0a9-c177-4942-a4aa-24191887cd74.jpg)
+![CN](https://user-images.githubusercontent.com/88321504/138555265-ea656efa-5696-49e2-9f67-8a2feb31b3a9.jpg)
 
 HELLO, MY NAME IS FAITH
 
