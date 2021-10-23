@@ -1,0 +1,1 @@
+document.getElementById("class").style.fontSize = "35px";
