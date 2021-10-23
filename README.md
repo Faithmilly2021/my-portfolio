@@ -1,4 +1,6 @@
 
+![fm](https://user-images.githubusercontent.com/88321504/138554882-d59a463b-5dfb-4154-b8c7-81125638588a.jpg)
+
 HELLO, MY NAME IS FAITH
 
 I am a software engineer student. Most of the time i like to keep myself busy with code, and learning new things.
