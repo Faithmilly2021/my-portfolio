@@ -6,7 +6,7 @@
 nav{
 	text-align: right;
 	background-color: #faf4f448;
-	font-weight: bold;
+	font-weight: 900 !important;
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
 	letter-spacing: 1px;
 }
@@ -22,6 +22,7 @@ ul{
 p{
     color: #350303;
     float: inherit;
+   font-family: Gotham, Roboto, Open Sans, Monospace:
 }
 
 ol{
